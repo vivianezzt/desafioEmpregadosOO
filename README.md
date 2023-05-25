@@ -1,6 +1,6 @@
 # Formação Desenvolvedor Moderno
 ## Módulo: Programação Moderna
-## Capítulo: Enumerações e composição
+### Capítulo: Enumerações e composição
 
 # DESAFIO: Empregados OO
 ### Desenvolvimento do projeto: 
